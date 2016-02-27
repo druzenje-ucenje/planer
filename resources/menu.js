@@ -15,7 +15,10 @@ var menuNovi = `
           <ul class="js-menu treeview-menu">
             <li><a href="../cas13/index.html"><i class="fa fa-circle-o"></i> Čas 13</a></li>
             <li><a href="../cas14/index.html"><i class="fa fa-circle-o"></i> Čas 14</a></li>
-            <li><a href="../cas15/index.html"><i class="fa fa-circle-o"></i> Čas 15</a></li></ul>
+            <li><a href="../cas15/index.html"><i class="fa fa-circle-o"></i> Čas 15</a></li>
+            <li><a href="../cas16/index.html"><i class="fa fa-circle-o"></i> Čas 16</a></li>
+            <li><a href="../cas17/index.html"><i class="fa fa-circle-o"></i> Čas 17</a></li>
+          </ul>
         </li>
         <li>
             <a href="#">
